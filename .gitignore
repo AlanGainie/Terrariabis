@@ -1,0 +1,6 @@
+.*~
+*~
+terrarialike
+build
+*.o
+.gitignore~
